@@ -1,5 +1,5 @@
 # Simple Snake Game in Python 3 for Beginners
-# By @Dragowitch12
+# By @Dragowitch123
 
 import turtle
 import time
